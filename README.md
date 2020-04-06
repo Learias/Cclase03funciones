@@ -15,3 +15,17 @@
 6- "comitear" cambios
 
 7- subir al repositorio web
+
+  # Orden de los comandos
+
+a- git clone (único)
+
+           iteración:
+
+b- git add .
+
+c- git commit -m "mensaje"
+
+          Solo para subir a la web
+
+d- git push
